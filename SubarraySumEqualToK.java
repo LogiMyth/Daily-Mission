@@ -32,3 +32,7 @@ public class SubarraySumEqualToK {
         System.out.println(ans);
     }
 }
+
+
+
+
